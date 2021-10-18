@@ -4,7 +4,7 @@ import nmap
 
 def escan_ports():
 
-    ip = ''
+    ip = '127.0.0.1'
 
     scanner = nmap.PortScanner()
     p_open = '-p '
@@ -35,6 +35,6 @@ def escan_ports():
     
     print ("\nPuertos abiertos: "+ p_open +" "+str(ip))
 
-#fuc_llama = escan_ports()
+escan_ports()
 
 #print(fuc_llama)
