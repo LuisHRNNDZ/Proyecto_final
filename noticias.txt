@@ -1,0 +1,28 @@
+Las 3 noticias más recientes sobre seguridad informática: 
+____________________________________________________________________
+
+
+						Grupos de ransomware están apuntando a plantas de tratamiento de agua					
+
+Un comunicado firmado conjuntamente por varios organismos de Estados Unidos advierte sobre la continua actividad de amenazas informáticas apuntando a plantas de tratamiento de agua potable y residual.
+
+Juan Manuel Harán 18 Oct 2021 - 04:34AM
+
+____________________________________________________________________
+
+
+						Qué es un adware y cuáles son sus características					
+
+Adware es un software no deseado que despliega publicidad invasiva en la computadora o teléfono que puede incluso conducir a sitios maliciosos. Se distribuye a través de anuncios, aplicaciones dudosas o software gratuito, entre otras formas.
+
+Fernando Tavella 15 Oct 2021 - 03:18PM
+
+____________________________________________________________________
+
+
+						Podcast: Seguridad en Internet de las Cosas (IoT)					
+
+En este nuevo episodio del podcast de ESET Latinoamérica repasamos los desafíos de la seguridad y la privacidad entorno a los dispositivos inteligentes, también conocidos como Internet of Things (IoT).
+
+Juan Manuel Harán 14 Oct 2021 - 05:46PM
+
