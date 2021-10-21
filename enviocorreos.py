@@ -24,7 +24,6 @@ def enviarcorreo(de,para,asunto,mensaje,clave):
     server.quit()
 
 
-
 def uniontxt():
     f= open('./reporte_scan.txt', 'r')
     texto1 = f.read()
@@ -40,10 +39,10 @@ def uniontxt():
 
 
 
-de = "ejemplo@gmail.com" # CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
-para = "ejemlo@gmail.com" # CORREO HACIA DONDE SE ENVIARA EL MENSAJE
+de = "prograenviocorreo@gmail.com" # CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
+para = "adrian.cortezcs@uanl.edu.mx,luis.lopezh@uanl.edu.mx,romario.limonhrnd@uanl.edu.mx" # CORREO HACIA DONDE SE ENVIARA EL MENSAJE
 asunto = "Prueba" # ASUNTO
 mensaje = uniontxt() # MENSAJE 
-clave = "contraseña" # CONTRASEÑA DEL CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
+clave = "enviocorreos.py" # CONTRASEÑA DEL CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
 enviarcorreo(de,para,asunto,mensaje,clave)
 
