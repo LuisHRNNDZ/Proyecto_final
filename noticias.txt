@@ -2,27 +2,36 @@ Las 3 noticias más recientes sobre seguridad informática:
 ____________________________________________________________________
 
 
-						Grupos de ransomware están apuntando a plantas de tratamiento de agua					
+						App relacionada con “El juego del calamar” utilizada para distribuir malware					
 
-Un comunicado firmado conjuntamente por varios organismos de Estados Unidos advierte sobre la continua actividad de amenazas informáticas apuntando a plantas de tratamiento de agua potable y residual.
+La popularidad de la serie de Netflix está siendo aprovechada por ciberdelincuentes que buscan distribuir el troyano Joker a través de aplicaciones que ofrecen fondos de pantalla de la serie.
 
-Juan Manuel Harán 18 Oct 2021 - 04:34AM
-
-____________________________________________________________________
-
-
-						Qué es un adware y cuáles son sus características					
-
-Adware es un software no deseado que despliega publicidad invasiva en la computadora o teléfono que puede incluso conducir a sitios maliciosos. Se distribuye a través de anuncios, aplicaciones dudosas o software gratuito, entre otras formas.
-
-Fernando Tavella 15 Oct 2021 - 03:18PM
+Juan Manuel Harán 26 Oct 2021 - 05:14AM
 
 ____________________________________________________________________
 
 
-						Podcast: Seguridad en Internet de las Cosas (IoT)					
+						WSHRAT: troyano de acceso remoto capaz de realizar múltiples acciones en un equipo infectado					
 
-En este nuevo episodio del podcast de ESET Latinoamérica repasamos los desafíos de la seguridad y la privacidad entorno a los dispositivos inteligentes, también conocidos como Internet of Things (IoT).
+Analizamos las principales características de WSHRAT, un troyano de acceso remoto (RAT) creado a partir del viejo malware Hworm que es utilizado activamente en campañas a nivel global.  
 
-Juan Manuel Harán 14 Oct 2021 - 05:46PM
+Fernando Tavella 25 Oct 2021 - 01:30PM
 
+____________________________________________________________________
+
+
+						Propagan malware para robar credenciales a través de videos en YouTube					
+
+Cibercriminales están distribuyendo malware para robar credenciales mediante enlaces en la descripción de videos en YouTube sobre cracks, criptomonedas, licencias, cheats para juegos, entre otros temas.
+
+Juan Manuel Harán 22 Oct 2021 - 04:30PM
+
+____________________________________________________________________
+
+Noticia reciente del api NewsApi
+
+Título:AWS anuncia la disponibilidad general de las instancias de Amazon EC2 DL1
+Autor:None
+Fecha de publicación:2021-10-26T20:39:30Z
+Descripción:
+SEATTLE - (BUSINESS WIRE) - # AWS - AWS anuncia la disponibilidad de instancias Amazon EC2 DL1 con aceleradores Gaudí de Habana Labs para entrenar modelos de aprendizaje automático
