@@ -37,7 +37,8 @@ def uniontxt():
 
     return texto_unido
 
-
+enviarcorreo()
+uniontxt()
 
 de = "prograenviocorreo@gmail.com" # CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
 para = "adrian.cortezcs@uanl.edu.mx,luis.lopezh@uanl.edu.mx,romario.limonhrnd@uanl.edu.mx" # CORREO HACIA DONDE SE ENVIARA EL MENSAJE
@@ -45,4 +46,5 @@ asunto = "Prueba" # ASUNTO
 mensaje = uniontxt() # MENSAJE 
 clave = "enviocorreos.py" # CONTRASEÑA DEL CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
 enviarcorreo(de,para,asunto,mensaje,clave)
+
 
