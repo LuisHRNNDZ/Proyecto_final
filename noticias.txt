@@ -1,5 +1,5 @@
 Las 3 noticias más recientes sobre seguridad informática: 
-____________________________________________________________________
+________________________________________________________
 
 
 						Chrome repara dos nuevas zero‑day explotadas activamente por atacantes					
@@ -8,7 +8,7 @@ Google Chrome lanzó una nueva actualización para Windows, Mac y Linux que repa
 
 Juan Manuel Harán 29 Oct 2021 - 05:03AM
 
-____________________________________________________________________
+________________________________________________________
 
 
 						Herramientas gratuitas para análisis de malware					
@@ -17,7 +17,7 @@ Un recorrido por distintas herramientas gratuitas que nos ayudará con el análi
 
 Sol González 28 Oct 2021 - 06:53PM
 
-____________________________________________________________________
+________________________________________________________
 
 
 						4 cursos online en Udemy para iniciarse en el análisis de malware					
@@ -26,12 +26,12 @@ Compartimos una lista con cuatro de los cursos de nivel inicial pagos y mejor va
 
 Juan Manuel Harán 27 Oct 2021 - 02:17PM
 
-____________________________________________________________________
+________________________________________________________
 
 Noticia reciente del api NewsApi
 
-Título:Sra. Chen Zhiping, vicepresidenta de ZTE: un camino digital hacia la neutralidad climática
-Autor:None
-Fecha de publicación:2021-10-30T02:37:00Z
+Título:Miren aquí, niños, es el metaverso
+Autor:Lauren Goode
+Fecha de publicación:2021-10-28T20:28:22Z
 Descripción:
-SHENZHEN, China, 30 de octubre de 2021 / PRNewswire / - ZTE Corporation (0763.HK / 000063.SZ), un importante proveedor internacional de telecomunicaciones, soluciones de tecnología empresarial y de consumo para Internet móvil, anunció hoy que Fr ...
+La visión de Facebook para el futuro de la informática viene con una nueva marca brillante.
