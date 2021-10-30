@@ -2,36 +2,36 @@ Las 3 noticias más recientes sobre seguridad informática:
 ____________________________________________________________________
 
 
-						App relacionada con “El juego del calamar” utilizada para distribuir malware					
+						Chrome repara dos nuevas zero‑day explotadas activamente por atacantes					
 
-La popularidad de la serie de Netflix está siendo aprovechada por ciberdelincuentes que buscan distribuir el troyano Joker a través de aplicaciones que ofrecen fondos de pantalla de la serie.
+Google Chrome lanzó una nueva actualización para Windows, Mac y Linux que repara dos vulnerabilidades que están siendo explotadas por atacantes de forma activa.
 
-Juan Manuel Harán 26 Oct 2021 - 05:14AM
-
-____________________________________________________________________
-
-
-						WSHRAT: troyano de acceso remoto capaz de realizar múltiples acciones en un equipo infectado					
-
-Analizamos las principales características de WSHRAT, un troyano de acceso remoto (RAT) creado a partir del viejo malware Hworm que es utilizado activamente en campañas a nivel global.  
-
-Fernando Tavella 25 Oct 2021 - 01:30PM
+Juan Manuel Harán 29 Oct 2021 - 05:03AM
 
 ____________________________________________________________________
 
 
-						Propagan malware para robar credenciales a través de videos en YouTube					
+						Herramientas gratuitas para análisis de malware					
 
-Cibercriminales están distribuyendo malware para robar credenciales mediante enlaces en la descripción de videos en YouTube sobre cracks, criptomonedas, licencias, cheats para juegos, entre otros temas.
+Un recorrido por distintas herramientas gratuitas que nos ayudará con el análisis estático y dinámico de malware.
 
-Juan Manuel Harán 22 Oct 2021 - 04:30PM
+Sol González 28 Oct 2021 - 06:53PM
+
+____________________________________________________________________
+
+
+						4 cursos online en Udemy para iniciarse en el análisis de malware					
+
+Compartimos una lista con cuatro de los cursos de nivel inicial pagos y mejor valorados en la plataforma Udemy para introducirse en el mundo del análisis de malware.
+
+Juan Manuel Harán 27 Oct 2021 - 02:17PM
 
 ____________________________________________________________________
 
 Noticia reciente del api NewsApi
 
-Título:AWS anuncia la disponibilidad general de las instancias de Amazon EC2 DL1
+Título:Sra. Chen Zhiping, vicepresidenta de ZTE: un camino digital hacia la neutralidad climática
 Autor:None
-Fecha de publicación:2021-10-26T20:39:30Z
+Fecha de publicación:2021-10-30T02:37:00Z
 Descripción:
-SEATTLE - (BUSINESS WIRE) - # AWS - AWS anuncia la disponibilidad de instancias Amazon EC2 DL1 con aceleradores Gaudí de Habana Labs para entrenar modelos de aprendizaje automático
+SHENZHEN, China, 30 de octubre de 2021 / PRNewswire / - ZTE Corporation (0763.HK / 000063.SZ), un importante proveedor internacional de telecomunicaciones, soluciones de tecnología empresarial y de consumo para Internet móvil, anunció hoy que Fr ...
