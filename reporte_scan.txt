@@ -2,5 +2,9 @@
 Host : 127.0.0.1
 Estado : up
 Protocolo : tcp
-port : 631	state : open
-Puertos abiertos: -p 631 127.0.0.1
+port : 135	state : open
+port : 445	state : open
+port : 2968	state : open
+port : 5357	state : open
+port : 6646	state : open
+Puertos abiertos: -p 135,445,2968,5357,6646 127.0.0.1
