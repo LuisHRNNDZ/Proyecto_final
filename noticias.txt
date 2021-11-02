@@ -1,37 +1,37 @@
-Las 3 noticias m√°s recientes sobre seguridad inform√°tica: 
+Las 3 noticias m·s recientes sobre seguridad inform·tica: 
 ________________________________________________________
 
 
-						Chrome repara dos nuevas zero‚Äëday explotadas activamente por atacantes					
+						Ciberacoso: øcÛmo se diferencia del acoso cara a cara?					
 
-Google Chrome lanz√≥ una nueva actualizaci√≥n para Windows, Mac y Linux que repara dos vulnerabilidades que est√°n siendo explotadas por atacantes de forma activa.
+La era digital ha agregado una dimensiÛn completamente nueva al comportamiento abusivo, y analizamos algunas de las caracterÌsticas clave que distinguen al acoso en persona y en lÌnea.
 
-Juan Manuel Har√°n 29 Oct 2021 - 05:03AM
-
-________________________________________________________
-
-
-						Herramientas gratuitas para an√°lisis de malware					
-
-Un recorrido por distintas herramientas gratuitas que nos ayudar√° con el an√°lisis est√°tico y din√°mico de malware.
-
-Sol Gonz√°lez 28 Oct 2021 - 06:53PM
+Amer Owaida 2 Nov 2021 - 02:08PM
 
 ________________________________________________________
 
 
-						4 cursos online en Udemy para iniciarse en el an√°lisis de malware					
+						Resumen con las noticias de seguridad m·s destacadas que dejÛ octubre					
 
-Compartimos una lista con cuatro de los cursos de nivel inicial pagos y mejor valorados en la plataforma Udemy para introducirse en el mundo del an√°lisis de malware.
+Repasamos cu·les fueron las noticias de ciberseguridad m·s destacadas de octubre que publicamos en WeLiveSecurity.
 
-Juan Manuel Har√°n 27 Oct 2021 - 02:17PM
+Juan Manuel Har·n 1 Nov 2021 - 05:22PM
+
+________________________________________________________
+
+
+						EngaÒo vÌa WhatsApp ofrece falsas tarjetas de supermercados Jumbo					
+
+Estafadores suplantan la identidad de la cadena de supermercados para hacer creer que est·n regalando tarjetas con dinero por la celebraciÛn de su aniversario n˙mero 50. Jumbo tambiÈn advirtiÛ a sus clientes.
+
+Martina LÛpez 1 Nov 2021 - 04:44AM
 
 ________________________________________________________
 
 Noticia reciente del api NewsApi
 
-T√≠tulo:Miren aqu√≠, ni√±os, es el metaverso
+TÌtulo:Miren aquÌ, niÒos, es el metaverso
 Autor:Lauren Goode
-Fecha de publicaci√≥n:2021-10-28T20:28:22Z
-Descripci√≥n:
-La visi√≥n de Facebook para el futuro de la inform√°tica viene con una nueva marca brillante.
+Fecha de publicaciÛn:2021-10-28T20:28:22Z
+DescripciÛn:
+La visiÛn de Facebook para el futuro de la inform·tica viene con una nueva marca brillante.

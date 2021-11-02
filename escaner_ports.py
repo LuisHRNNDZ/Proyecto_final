@@ -14,7 +14,7 @@ def escan_ports():
 
             scanner = nmap.PortScanner()
             p_open = '-p '
-            result = scanner.scan(hosts=ip, arguments='-sT -n -Pn -T4')
+            scanner.scan(hosts=ip, arguments='-sT -n -Pn -T4')
             count = 0
 
             # Variables para reporte_san.txt

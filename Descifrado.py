@@ -17,15 +17,3 @@ abecedario = {
     'U': 'Y', 'V': 'Z', 'W': 'A', 'X': 'B', 'Y': 'C',
     'Z': 'D'
 }
-print("Menú\n1) Desencriptar\n2) Salir")
-x = int(input("Opción: "))
-while x != 2:
-    if x == 1:
-        frase = input('Frase encriptada: ')
-        frase = frase.upper()
-        fraseEnc = Desencriptar(frase)
-        print(fraseEnc)
-    else:
-        print("Error! Opción no válida")
-    print("Menú\n1) Desencriptar\n2) Salir")
-    x = int(input("Opción: "))

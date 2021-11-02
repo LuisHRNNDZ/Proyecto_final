@@ -1,0 +1,13 @@
+{
+  "enviocorreo" : {
+    "de" : "prograenviocorreo@gmail.com",
+    "para" : "luis.lopezh@uanl.edu.mx,romario.limonhrnd@uanl.edu.mx,adrian.cortezcs@uanl.edu.mx,carlos.riveray@uanl.edu.mx",
+    "asunto" :  "Correo Automatizado PIA",
+    "clave" : "enviocorreos.py"
+  },
+  "cifrado" : {
+    "txtfrasetoU" : "./reporte_scan.txt",
+    "txtfrasetoC" : "./reporte_scanC.txt",
+    "txtfrasetoD" : "./reporte_scanD.txt"
+  }
+}
