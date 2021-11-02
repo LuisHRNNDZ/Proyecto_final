@@ -32,13 +32,14 @@ def noticias():
         f.write('Las 3 noticias más recientes sobre seguridad informática: \n')
         # Separamos las noticias que escribiremos en el txt
         for i in range(0, 3):
-            f.write('________________________________________________________')
+            f.write('________________________________________________________\n')
             if i == 0:
-                f.write(temas[i].text)
+                f.write(temas[i].text.strip())
             if i == 1:
-                f.write(temas[i].text)
+                f.write(temas[i].text.strip())
             if i == 2:
-                f.write(temas[i].text)
+                f.write(temas[i].text.strip())
+            f.write('\n')
         r = requests.get(url)  # Hacemos request a la API
         data = json.loads(r.content)  # Hacemos el contenido un diccionario
         articles = data['articles']  # Nos ubicamos en los articles de la API
