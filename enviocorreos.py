@@ -1,50 +1,45 @@
-
-import json 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import smtplib
 
+# Funcion enviar correos
 
 
-def enviarcorreo(de,para,asunto,mensaje,clave):
-
+def enviarcorreo(de, para, asunto, clave):
     msg = MIMEMultipart()
+    message = uniontxt()  # mensaje a enviar
+    password = clave  # password del correo
+    msg['From'] = de  # quien envia el correo
+    msg['To'] = para  # hacia quien va el correo
+    msg['Subject'] = asunto  # el asunto del correo
 
-    message = mensaje
-    password = clave
-    msg['From'] = de
-    msg['To'] = para
-    msg['Subject'] = asunto
-
+    # asignamos como texto plano el mensaje.
     msg.attach(MIMEText(message, 'plain'))
+    # servidor del correo y puerto desde el que se envia
     server = smtplib.SMTP('smtp.gmail.com: 587')
     server.starttls()
+    # login
     server.login(msg['From'], password)
-    server.sendmail(msg['From'], msg['To'], msg.as_string())
+    # envio de correo, el .split(",") sirve para enviar correo a
+    # varios destinatarios.
+    server.sendmail(msg['From'], msg['To'].split(","), msg.as_string())
+    # close
     server.quit()
+
+# union de los 2 txt los cuales vamos a enviar.
 
 
 def uniontxt():
-    f= open('./reporte_scan.txt', 'r')
+    f = open('./reporte_scan.txt', 'r', errors="ignore")
     texto1 = f.read()
     f.close()
 
-    t= open('./noticias.txt', 'r')
+    t = open('./noticias.txt', 'r', errors="ignore")
     texto2 = t.read()
     t.close()
 
-    texto_unido = '\n\n\n REPORTE SCANNEO DE REDES \n\n\n' + texto1 + '\n\n\n NOTICIAS RECIENTES CIBERSEGURIDAD \n\n\n' + texto2 + '\n\n\n Correo enviado automaticamente PIAPROGRAMACION \n\n\n'
+    texto_unido = ('\n REPORTE SCANNEO DE REDES \n' + texto1 + '\n\n\n '
+                   'NOTICIAS RECIENTES CIBERSEGURIDAD \n\n\n' +
+                   texto2 + '\n\n\n Correo enviado automaticamente \n\n\n')
 
     return texto_unido
-
-enviarcorreo()
-uniontxt()
-
-de = "prograenviocorreo@gmail.com" # CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
-para = "adrian.cortezcs@uanl.edu.mx,luis.lopezh@uanl.edu.mx,romario.limonhrnd@uanl.edu.mx" # CORREO HACIA DONDE SE ENVIARA EL MENSAJE
-asunto = "Prueba" # ASUNTO
-mensaje = uniontxt() # MENSAJE 
-clave = "enviocorreos.py" # CONTRASEÑA DEL CORREO DESDE EL CUAL SE ENVIARA EL MENSAJE
-enviarcorreo(de,para,asunto,mensaje,clave)
-
-

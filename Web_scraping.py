@@ -11,7 +11,7 @@ from deep_translator import GoogleTranslator
 def noticias():
     document = "./noticias.txt"  # Ruta donde guardaremos la información.
     # Abrimos el documento
-    with open(document, 'w') as f:
+    with open(document, 'w', errors="ignore") as f:
         # Establecemos el idioma fuenta al idioma que se traducirá.
         translator = GoogleTranslator(source='auto', target="es")
         apikey = "apiKey=532e8814a0c243e9b2823f4a48af16eb"  # apikey de API
@@ -19,8 +19,8 @@ def noticias():
         q = "computing"
         sort = "publishedAT"
         url = (
-            "https://newsapi.org/v2/everything?q="+q+"&sortBy="+sort+"+&" +
-            apikey
+            "https://newsapi.org/v2/everything?q=" + q + "&sortBy=" + sort
+            + "+&" + apikey
         )
         # url a investigar con beautiful
         URL = "https://www.welivesecurity.com/la-es/"
@@ -57,4 +57,6 @@ def noticias():
             description = translator.translate(d['description'])
             f.write("Descripción:\n" + description + "\n")
             i = i + 1
+
+
 noticias()

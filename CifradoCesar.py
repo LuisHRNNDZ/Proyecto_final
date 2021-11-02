@@ -1,15 +1,4 @@
 # Cifrado Cesar doble
-def Encriptar(Frase):
-    FraseEnc = ''
-    for letra in Frase:
-        encontrado = False
-        for x, y in abecedario.items():
-            if letra == x:
-                FraseEnc += y
-                encontrado = True
-        if not encontrado:
-            FraseEnc += letra
-    return FraseEnc
 
 abecedario = {
     'A': 'E', 'B': 'F', 'C': 'G', 'D': 'H', 'E': 'I',
@@ -20,17 +9,30 @@ abecedario = {
     'Z': 'D'
 }
 
-print("Menú\n1) Encriptar\n2) Salir")
-x = int(input("Opción: "))
-while x != 2:
-    if x == 1:
-        frase = input('Frase en texto claro: ')
-        frase = frase.upper()
-        encriptadouno = Encriptar(frase)
-        FraseEnc = Encriptar(encriptadouno)
-        print(FraseEnc)
-    else:
-        print("Error! Opción no válida")
-    print("Menú\n1) Encriptar\n2) Salir")
-    x = int(input("Opción: "))
 
+def Encriptar(Frase):
+    Frase = Frase.upper()
+    FraseEnc = ''
+    for letra in Frase:
+        encontrado = False
+        for x, y in abecedario.items():
+            if letra == x:
+                FraseEnc += y
+                encontrado = True
+        if not encontrado:
+            FraseEnc += letra
+    return Encriptar2(FraseEnc)
+
+
+def Encriptar2(Frase):
+    Frase = Frase.upper()
+    FraseEnc = ''
+    for letra in Frase:
+        encontrado = False
+        for x, y in abecedario.items():
+            if letra == x:
+                FraseEnc += y
+                encontrado = True
+        if not encontrado:
+            FraseEnc += letra
+    return FraseEnc
