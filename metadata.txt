@@ -1,0 +1,8 @@
+[+] Metadata for file: /home/luis/Documentos/GitHub/Proyecto_final/prueba3.pdf 
+Tipo: <class 'PyPDF2.pdf.DocumentInformation'>
+[+] /Producer:GPL Ghostscript 9.50
+[+] /CreationDate:D:20211102193501-06'00'
+[+] /ModDate:D:20211102193501-06'00'
+[+] /Title:Enscript Output
+[+] /Creator:GNU Enscript 1.6.5.90
+
