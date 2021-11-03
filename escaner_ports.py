@@ -11,7 +11,7 @@ def escan_ports():
     with open('reporte_scan.txt', 'w') as file:
 
         for ip in ips:
-
+            ip = ip.rstrip('\n')
             scanner = nmap.PortScanner()
             p_open = '-p '
             scanner.scan(hosts=ip, arguments='-sT -n -Pn -T4')
