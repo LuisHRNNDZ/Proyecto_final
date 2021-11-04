@@ -3,6 +3,7 @@ import enviocorreos as correo
 import escaner_ports as escan
 import CifradoCesar as cifrado
 import Descifrado as desci
+import metadata_pdf as meta
 import json
 import argparse
 import sys
@@ -180,6 +181,31 @@ def main():
         else:
             logging.info('Operacion DESCIFRADO CESAR finalizada con exito')
             print("Operacion DESCIFRADO CESAR finalizada con exito")
+
+    # METADATA
+    if (args.escaneo is False and args.web is False
+            and args.force is not True):
+        print("Este modulo necesita que este activo uno de los"
+              "siguientes modulos:\n"
+              "1.-Escaneo de puertos\n"
+              "2.-Web Scrapping\n"
+              "Esto debido, a que este modulo trabaja con los resultados "
+              "de los modulos anteriores.")
+        logging.info('Finalizacion del programa por la falta de datos de otros'
+                     'modulos')
+        sys.exit()
+    elif args.metadata is True or args.force is True:
+        print("Iniciando operacion METADATA")
+        logging.info('Iniciando operacion METADATA')
+        try:
+            meta.printMeta()
+        except Exception as e:
+            logging.info('Error en la operacion METADATA' + e.text)
+            print("""ERROR, NO SE PUDO COMPLETAR CORRECTAMENTE
+                    ,METADATA ,CODIGO: """ + e.text)
+        else:
+            logging.info('Operacion METADATA finalizada con exito')
+            print("Operacion METADATA finalizada con exito")
 
 
 if __name__ == "__main__":

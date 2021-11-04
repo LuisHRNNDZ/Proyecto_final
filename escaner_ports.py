@@ -1,13 +1,14 @@
 # Escaner de puertos
 
 import nmap
+import socket
 
 
 def escan_ports():
 
     archivo = open("ips_list.txt", "r")
     ips = archivo.read().split(',')
-
+    localip = socket.gethostbyname(socket.gethostname())
     with open('reporte_scan.txt', 'w') as file:
 
         for ip in ips:
@@ -50,5 +51,6 @@ def escan_ports():
             # Variable para reporte_scan.txt
             salida = "\nPuertos abiertos: " + p_open + " " + str(ip)
             file.write(salida)
+            file.write("LOCAL IP: " + localip)
 
 escan_ports()
