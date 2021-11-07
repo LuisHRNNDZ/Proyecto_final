@@ -4,6 +4,7 @@ import escaner_ports as escan
 import CifradoCesar as cifrado
 import Descifrado as desci
 import metadata_pdf as meta
+import bruteforce as brutef
 import json
 import argparse
 import sys
@@ -37,8 +38,12 @@ my_parser.add_argument(
     help="Activar modulo metadata",
     action='store_true')
 my_parser.add_argument(
+    '-b', '--brute',
+    help="Activar modulo bruteforce",
+    action='store_true')
+my_parser.add_argument(
     '-f', '--force',
-    help="Fuerza la ejecucion de todos los modulos.",
+    help="Fuerza la ejecucion de todos los modulos. (excepto bruteforce)",
     action='store_true')
 
 with open("config.json", "r") as f:
@@ -50,6 +55,9 @@ with open("config.json", "r") as f:
     txtfrasetoU = data["cifrado"]["txtfrasetoU"]
     txtfrasetoD = data["cifrado"]["txtfrasetoD"]
     txtfrasetoC = data["cifrado"]["txtfrasetoC"]
+    user = data["bruteforce"]["user"]
+    passfile = data["bruteforce"]["passfile"]
+    url = data["bruteforce"]["url"]
 
 logging.info('Variables cargadas desde config.json')
 
@@ -206,6 +214,19 @@ def main():
         else:
             logging.info('Operacion METADATA finalizada con exito')
             print("Operacion METADATA finalizada con exito")
+
+    # BRUTEFORCE
+    if (args.brute is True):
+        print("Iniciando operacion BRUTEFORCE")
+        logging.info('Iniciando operacion BRUTEFORCE')
+        try:
+            brutef.bruteforce(user, passfile, url)
+        except Exception as e:
+            logging('Error en la operacion BRUTEFORCE' + e.text)
+            print("Error en la operacion BRUTEFORCE" + e.text)
+        else:
+            logging.info("Operacion BRUTEFORCE finalizada con exito")
+            print("Operacion BRUTEFORCE finalizada con exito")
 
 
 if __name__ == "__main__":
