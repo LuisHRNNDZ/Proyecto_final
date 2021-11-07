@@ -9,5 +9,10 @@
     "txtfrasetoU" : "./reporte_scan.txt",
     "txtfrasetoC" : "./reporte_scanC.txt",
     "txtfrasetoD" : "./reporte_scanD.txt"
+  },
+  "bruteforce" : {
+    "user" : "admin",
+    "passfile" : "./passw.txt",
+    "url" : "127.0.0.1/login.php",
   }
 }

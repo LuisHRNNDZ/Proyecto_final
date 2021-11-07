@@ -4,4 +4,4 @@ deep-translator==1.5.4
 PyPDF2==1.26.0
 python-nmap==0.6.4
 requests==2.26.0
-
+mechanize==0.4.7
