@@ -1,0 +1,115 @@
+11/07/2021 07:42:44 PM Variables cargadas desde config.json
+11/07/2021 07:42:44 PM Parseo de argumentos
+11/07/2021 07:42:44 PM Inicializacion de la funcion main()
+11/07/2021 07:42:44 PM Finalizacion de programa debido a falta de argumentos.
+11/07/2021 07:43:16 PM Variables cargadas desde config.json
+11/07/2021 07:43:46 PM Variables cargadas desde config.json
+11/07/2021 07:43:46 PM Parseo de argumentos
+11/07/2021 07:43:46 PM Argumento FORCE activado
+11/07/2021 07:43:46 PM Inicializacion de la funcion main()
+11/07/2021 07:43:46 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:43:47 PM Operacion webscrap finalizada con exito
+11/07/2021 07:43:47 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:43:47 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:43:47 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:43:49 PM Operacion envio correos finalizada con exito
+11/07/2021 07:43:49 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:43:49 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:43:49 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:43:49 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:43:49 PM Iniciando operacion METADATA
+11/07/2021 07:43:49 PM Operacion METADATA finalizada con exito
+11/07/2021 07:43:49 PM Fin del programa
+11/07/2021 07:48:55 PM Variables cargadas desde config.json
+11/07/2021 07:48:55 PM Parseo de argumentos
+11/07/2021 07:48:55 PM Inicializacion de la funcion main()
+11/07/2021 07:48:55 PM Finalizacion del programa por la falta de datos de otrosmodulos
+11/07/2021 07:49:41 PM Variables cargadas desde config.json
+11/07/2021 07:49:41 PM Parseo de argumentos
+11/07/2021 07:49:41 PM Inicializacion de la funcion main()
+11/07/2021 07:49:41 PM Finalizacion del programa por la falta de datos de otrosmodulos
+11/07/2021 07:49:57 PM Variables cargadas desde config.json
+11/07/2021 07:49:57 PM Parseo de argumentos
+11/07/2021 07:49:57 PM Argumento FORCE activado
+11/07/2021 07:49:57 PM Inicializacion de la funcion main()
+11/07/2021 07:49:57 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:49:58 PM Operacion webscrap finalizada con exito
+11/07/2021 07:49:58 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:49:59 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:49:59 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:50:00 PM Operacion envio correos finalizada con exito
+11/07/2021 07:50:00 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:50:00 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:50:00 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:50:00 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:50:00 PM Iniciando operacion METADATA
+11/07/2021 07:50:00 PM Operacion METADATA finalizada con exito
+11/07/2021 07:50:00 PM Fin del programa
+11/07/2021 07:52:47 PM Variables cargadas desde config.json
+11/07/2021 07:52:47 PM Parseo de argumentos
+11/07/2021 07:52:47 PM Argumento FORCE activado
+11/07/2021 07:52:47 PM Inicializacion de la funcion main()
+11/07/2021 07:52:47 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:52:48 PM Operacion webscrap finalizada con exito
+11/07/2021 07:52:48 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:52:49 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:52:49 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:52:50 PM Operacion envio correos finalizada con exito
+11/07/2021 07:52:50 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:52:50 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:52:50 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:52:50 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:52:50 PM Iniciando operacion METADATA
+11/07/2021 07:52:50 PM Operacion METADATA finalizada con exito
+11/07/2021 07:52:50 PM Fin del programa
+11/07/2021 07:57:28 PM Variables cargadas desde config.json
+11/07/2021 07:57:28 PM Parseo de argumentos
+11/07/2021 07:57:28 PM Argumento FORCE activado
+11/07/2021 07:57:28 PM Inicializacion de la funcion main()
+11/07/2021 07:57:28 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:57:30 PM Operacion webscrap finalizada con exito
+11/07/2021 07:57:30 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:57:30 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:57:30 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:57:31 PM Operacion envio correos finalizada con exito
+11/07/2021 07:57:31 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:57:31 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:57:31 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:57:31 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:57:31 PM Iniciando operacion METADATA
+11/07/2021 07:57:31 PM Operacion METADATA finalizada con exito
+11/07/2021 07:57:31 PM Fin del programa
+11/07/2021 07:58:30 PM Variables cargadas desde config.json
+11/07/2021 07:58:30 PM Parseo de argumentos
+11/07/2021 07:58:30 PM Argumento FORCE activado
+11/07/2021 07:58:30 PM Inicializacion de la funcion main()
+11/07/2021 07:58:30 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:58:31 PM Operacion webscrap finalizada con exito
+11/07/2021 07:58:31 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:58:32 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:58:32 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:58:33 PM Operacion envio correos finalizada con exito
+11/07/2021 07:58:33 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:58:33 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:58:33 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:58:33 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:58:33 PM Iniciando operacion METADATA
+11/07/2021 07:58:33 PM Operacion METADATA finalizada con exito
+11/07/2021 07:58:33 PM Fin del programa
+11/07/2021 07:59:27 PM Variables cargadas desde config.json
+11/07/2021 07:59:27 PM Parseo de argumentos
+11/07/2021 07:59:27 PM Argumento FORCE activado
+11/07/2021 07:59:27 PM Inicializacion de la funcion main()
+11/07/2021 07:59:27 PM Iniciando operacion WEB SCRAPPING
+11/07/2021 07:59:28 PM Operacion webscrap finalizada con exito
+11/07/2021 07:59:28 PM Iniciando operacion escaneo de puertos
+11/07/2021 07:59:28 PM Operacion PORTSCAN finalizada con exito
+11/07/2021 07:59:28 PM Iniciando operacion ENVIO CORREOS
+11/07/2021 07:59:29 PM Operacion envio correos finalizada con exito
+11/07/2021 07:59:29 PM Iniciando operacion CIFRADO CESAR
+11/07/2021 07:59:29 PM Operacion CIFRADO CESAR FINALIZADA CON EXITO
+11/07/2021 07:59:29 PM Iniciando operacion DESCIFRADO CESAR
+11/07/2021 07:59:29 PM Operacion DESCIFRADO CESAR finalizada con exito
+11/07/2021 07:59:29 PM Iniciando operacion METADATA
+11/07/2021 07:59:30 PM Operacion METADATA finalizada con exito
+11/07/2021 07:59:30 PM Fin del programa

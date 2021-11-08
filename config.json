@@ -13,6 +13,6 @@
   "bruteforce" : {
     "user" : "admin",
     "passfile" : "./passw.txt",
-    "url" : "127.0.0.1/login.php",
+    "url" : "127.0.0.1/login.php"
   }
 }

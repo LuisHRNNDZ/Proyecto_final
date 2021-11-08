@@ -2,7 +2,6 @@
 
 #Instalar apt-get install enscript ghostscript
 
+enscript -M A4 --margins=1:1:1:1 -f Courier7 noticias.txt reporte_scan.txt -p Union_info.ps
 
-enscript -M A4 --margins=1:1:1:1 -f Courier7 noticias.txt reporte_scan.txt -p prueba1.ps
-
-ps2pdf prueba3.pdf
+ps2pdf Union_info.ps

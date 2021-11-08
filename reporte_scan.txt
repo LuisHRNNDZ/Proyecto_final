@@ -1,0 +1,7 @@
+
+Host : 127.0.0.1
+Estado : up
+Protocolo : tcp
+port : 25	state : open
+port : 631	state : open
+Puertos abiertos: -p 25,631 127.0.0.1LOCAL IP: 127.0.1.1

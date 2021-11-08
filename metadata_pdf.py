@@ -24,9 +24,9 @@ def printMeta():
                             f.write('[+] ' + metaItem + ':' +
                                     docInfo[metaItem] + "\n")
                         f.write("\n")
-            os.remove('./prueba1.ps')
+            os.remove('./Union_info.ps')
     except OSError:
-        print("Tu sistema es operativo es Windows, "
+        print("Tu sistema operativo es Windows, "
               "no se ejecutara el modulo METADATA")
 
 
