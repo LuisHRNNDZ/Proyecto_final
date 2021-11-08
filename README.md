@@ -12,6 +12,10 @@ Sitio de scripts fuente: [Consulta.](https://github.com/LuisHRNNDZ/Proyecto_fina
   pip install requests
   pip install machine
 ```
+Instalar todos los modulos con:   
+```
+ pip install -r requeriments.txt
+```
 
 ## Estructuramiento :nut_and_bolt:  
 
