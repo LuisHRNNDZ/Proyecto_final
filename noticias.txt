@@ -1,0 +1,28 @@
+Las 3 noticias más recientes sobre seguridad informática: 
+________________________________________________________
+10 millones de dólares de recompensa por información del grupo de ransomware DarkSide					
+
+El gobierno de Estados Unidos anunció que ofrece recompensas de hasta 10 millones de dólares por información que conduzca a los operadores detrás del grupo de ransomware DarkSide.
+
+Juan Manuel Harán 5 Nov 2021 - 05:26PM
+________________________________________________________
+Qué es un gusano informático y cuáles son sus características					
+
+Un gusano informático, también conocido como “worm”, es un tipo de malware que tiene la capacidad de propagarse de forma automatizada para infectar la mayor cantidad de computadoras posible.  
+
+Fernando Tavella 5 Nov 2021 - 06:30AM
+________________________________________________________
+El token Squid desploma su valor a causa de supuesta estafa de “rug pull”					
+
+El valor de mercado del token Squid utilizado para el juego inspirado en la serie de Netflix “El juego del calamar", había tenido un crecimiento abrupto en los últimos días, pero su valor se desplomó y aseguran que se trata de un fraude.
+
+Juan Manuel Harán 4 Nov 2021 - 02:17PM
+________________________________________________________
+
+Noticia reciente del api NewsApi
+
+Título:Miren aquí, niños, es el metaverso
+Autor:Lauren Goode
+Fecha de publicación:2021-10-28T20:28:22Z
+Descripción:
+La visión de Facebook para el futuro de la informática viene con una nueva marca brillante.
