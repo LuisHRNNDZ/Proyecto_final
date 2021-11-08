@@ -20,7 +20,7 @@ def noticias():
         sort = "publishedAT"
         url = (
             "https://newsapi.org/v2/everything?q=" + q + "&sortBy=" + sort
-            + "+&" + apikey
+            + "&" + apikey
         )
         # url a investigar con beautiful
         URL = "https://www.welivesecurity.com/la-es/"
