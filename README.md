@@ -44,7 +44,7 @@ optional arguments:
   -m, --metadata      Activar modulo metadata
   -f, --force         Fuerza la ejecucion de todos los modulos.
 ```
-Funció: el escaneo de puertos generará un txt con los puertos abiertos en ese momento; web scraping generará un txt con noticias extraídas al día sobre el seguridad en información, así como de una API; se hará un pdf de los txt generados y se extrairá los metadatos de ese pdf; se cifrará el texto generado por escaner_ports.py y se creará un txt con el texto cifrado, se creará otro txt con el texto descifrado. Al final se envia un correo de forma automática con la información de web scraping y del escaneo de puertos.
+Función: el escaneo de puertos generará un txt con los puertos abiertos en ese momento; web scraping generará un txt con noticias extraídas al día sobre el seguridad en información, así como de una API; se hará un pdf de los txt generados y se extrairá los metadatos de ese pdf; se cifrará el texto generado por escaner_ports.py y se creará un txt con el texto cifrado, se creará otro txt con el texto descifrado. Al final se envia un correo de forma automática con la información de web scraping y del escaneo de puertos.
 
 ## Soporte y contactos: :email:
 luis.lopezh@uanl.edu.mx  
